@@ -11,6 +11,10 @@ Hi I am Kimosop Meshack, currently pursuing my bachelor's degree majoring in com
 
 [![Gmail Badge](https://img.shields.io/badge/-kimosopmeshack944@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimosopmeshack944@gmail.com)](mailto:kanna6501@gmail.com)
 
+<a href="https://lon9.github.io">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimosop-Wakanda&theme=dark&hide=html" />
+</a>
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -42,7 +46,6 @@ Hi I am Kimosop Meshack, currently pursuing my bachelor's degree majoring in com
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimosop-Wakanda&hide=TeX&layout=compact)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)

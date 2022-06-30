@@ -1,4 +1,8 @@
-### ⚡ About Kimosop
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kimosop-Wakanda&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Eric contributions" /></p>
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kimosop-Wakanda&count_private=true&show_icons=true&theme=vision-friendly-dark& layout=compact&hide_border=true"/> </p>
+
 
 Hi I am Kimosop Meshack, currently pursuing my bachelor's degree majoring in computer science. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -38,7 +42,7 @@ Hi I am Kimosop Meshack, currently pursuing my bachelor's degree majoring in com
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Kimosop-Wakanda&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimosop-Wakanda&hide=TeX&layout=compact)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)

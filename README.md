@@ -11,9 +11,9 @@ Hi I am Kimosop Meshack, currently pursuing my bachelor's degree majoring in com
 
 [![Gmail Badge](https://img.shields.io/badge/-kimosopmeshack944@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimosopmeshack944@gmail.com)](mailto:kanna6501@gmail.com)
 
-<a href="https://lon9.github.io">
+<!-- <a href="https://lon9.github.io">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimosop-Wakanda&theme=dark&hide=html" />
-</a>
+</a> -->
 
 ## ⚡ Technologies
 
